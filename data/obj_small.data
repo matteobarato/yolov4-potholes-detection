@@ -1,0 +1,5 @@
+classes = 1
+train = data/train_custom.txt
+valid = data/test_custom.txt
+names = data/obj.names
+backup = pothole_weights/
